@@ -26,7 +26,7 @@ A simple graphical calculator application built using Python with the Tkinter an
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ahmedalonsoi/Python-Calculator.git)
+    git clone https://github.com/ahmedalonsoi/Python-Calculator.git
     ```
 
 2.  **Navigate to the project directory:**
