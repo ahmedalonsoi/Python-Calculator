@@ -25,7 +25,7 @@ output.grid(row=0, column=0, columnspan=5, padx=5, pady=5)
 
 # buttons
 btn1 = customtkinter.CTkButton(app, text='1', command=lambda: output.insert('end', 1),
-                               width=80, height=55, font=("Comic Sans", 30))
+                               width=80, height=55, font=("Noto Sans", 30))
 btn1.grid(row=1, column=0, padx=5, pady=5)
 
 btn2 = customtkinter.CTkButton(app, text='2', command=lambda: output.insert('end', 2),
